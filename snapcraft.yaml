@@ -1,9 +1,9 @@
 name:  step-mania
-title:  Joust 3 - Revenge Of The Lava Troll
+title:  Step Mania
 version: "5.1.0-b1"
-summary:   Update to the arcade classic
+summary:   StepMania is a free and open source, cross-platform rhythm game
 description: |
-  Update to the arcade classic
+  StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controllers. It is customizable with user-made add-ons such as themes, and provides an integrated editor for creating your own simfiles.
 
 grade: stable
 icon: step-mania_icon.png
